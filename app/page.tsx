@@ -275,9 +275,9 @@ export default function Home() {
               viewport={{ once: true }}
               transition={{ duration: 0.5 }}
             >
-              <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">Featured Videos</h2>
+              <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">Video Unggulan</h2>
               <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                Explore my latest creations and immerse yourself in captivating stories
+                Jelajahi kreasi terbaru kami dan nikmati cerita-cerita menarik
               </p>
             </motion.div>
           </div>

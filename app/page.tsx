@@ -356,7 +356,7 @@ export default function Home() {
               className="text-center mb-16"
             >
               <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">TENTANG ANIMMOMEN</h2>
-              <p className="text-xl text-gray-600 dark:text-gray-400">The story behind the creator</p>
+              <p className="text-xl text-gray-600 dark:text-gray-400">Kisah di balik Konten Kreator</p>
             </motion.div>
 
             <div className="bg-white/80 dark:bg-gray-900/80 backdrop-blur-md rounded-3xl p-8 md:p-12 shadow-xl">
@@ -388,8 +388,7 @@ export default function Home() {
                     ANIMMOMEN adalah kreator konten kreatif yang khusus membahas analisis dan ulasan anime dengan perspektif unik. Setiap videonya menawarkan pandangan mendalam tentang karakter, alur cerita, serta makna tersembunyi dari berbagai judul populer seperti Naruto dengan eksplorasi dunia ninja dan perkembangannya, Tokyo Revengers yang mengupas drama perjalanan waktu dan konflik geng, Wind Breaker yang membahas semangat balap jalanan dan rivalitas, serta Crows yang menggali kehidupan keras para delinquent dengan nilai persaudaraannya. Dengan gaya penyampaian yang menarik, ANIMMOMEN memberikan insight segar bagi para pecinta anime!
                   </p>
                   <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                    Join our growing community of anime enthusiasts and discover new ways to appreciate your favorite
-                    series through our short-form content.
+                    Bergabunglah dengan komunitas penggemar anime kami yang terus berkembang dan temukan cara baru untuk mengapresiasi serial favorit Anda melalui konten bentuk pendek kami.
                   </p>
                   <div className="flex gap-4">
                     <Button
@@ -687,7 +686,7 @@ export default function Home() {
                 <span className="font-bold text-2xl">ANIMMOMEN</span>
               </div>
               <p className="text-gray-400 mb-6 max-w-md">
-                An xtension of the internet, creating engaging anime content and analysis through short-form videos.
+                sebuah momen yang tak terlupakan
               </p>
               <div className="flex flex-wrap gap-4">
                 <a

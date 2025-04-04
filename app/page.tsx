@@ -385,7 +385,7 @@ export default function Home() {
                 >
                   <h3 className="text-2xl font-bold mb-4 dark:text-white">SEBUAH MOMEN YANG TAK TERLUPAKAN</h3>
                   <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                    ANIMMOMEN adalah kreator konten kreatif yang khusus membahas analisis dan ulasan anime dengan perspektif unik. Setiap videonya menawarkan pandangan mendalam tentang karakter, alur cerita, serta makna tersembunyi dari berbagai judul populer seperti Naruto dengan eksplorasi dunia ninja dan perkembangannya, Tokyo Revengers yang mengupas drama perjalanan waktu dan konflik geng, Wind Breaker yang membahas semangat balap jalanan dan rivalitas, serta Crows yang menggali kehidupan keras para delinquent dengan nilai persaudaraannya. Dengan gaya penyampaian yang menarik, ANIMMOMEN memberikan insight segar bagi para pecinta anime!
+                    ANIMMOMEN adalah kreator konten kreatif yang khusus membahas analisis dan ulasan anime dan manga dengan perspektif unik. Setiap videonya menawarkan pandangan mendalam tentang karakter, alur cerita, serta makna tersembunyi, Dengan gaya penyampaian yang menarik, ANIMMOMEN memberikan insight segar bagi para pecinta anime!
                   </p>
                   <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
                     Bergabunglah dengan komunitas penggemar anime kami yang terus berkembang dan temukan cara baru untuk mengapresiasi serial favorit Anda melalui konten bentuk pendek kami.
@@ -419,7 +419,7 @@ export default function Home() {
           >
             <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">SOCIAL MEDIA KAMI</h2>
             <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-              Follow ANIMMOMEN on social media and join our community
+              Follow sosial media animmomen dan bergabunglah ke komunitas kami
             </p>
           </motion.div>
 

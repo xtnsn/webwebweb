@@ -205,7 +205,7 @@ export default function Home() {
                 <Button
                   variant="outline"
                   className="rounded-full px-8 py-6 border-2 dark:border-gray-700 dark:text-white"
-                  onClick={() => window.open("https://www.youtube.com/watch?v=Zv-NiYDpIR4&t", "_blank")}
+                  onClick={() => window.open("https://www.youtube.com/watch?v=jna-ACoIoGw&t", "_blank")}
                 >
                   <Play className="mr-2 h-5 w-5" />
                   Latest Video
@@ -221,7 +221,7 @@ export default function Home() {
                   ))}
                 </div>
                 <p className="text-gray-600 dark:text-gray-400">
-                  <span className="font-bold text-gray-900 dark:text-white">23.5K</span> subscribers
+                  <span className="font-bold text-gray-900 dark:text-white">100K</span> subscribers
                 </p>
               </div>
             </motion.div>
@@ -355,7 +355,7 @@ export default function Home() {
               transition={{ duration: 0.5 }}
               className="text-center mb-16"
             >
-              <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">About ANIMMOMEN</h2>
+              <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">TENTANG ANIMMOMEN</h2>
               <p className="text-xl text-gray-600 dark:text-gray-400">The story behind the creator</p>
             </motion.div>
 
@@ -383,11 +383,9 @@ export default function Home() {
                   viewport={{ once: true }}
                   transition={{ duration: 0.5, delay: 0.2 }}
                 >
-                  <h3 className="text-2xl font-bold mb-4 dark:text-white">sebuah momen yang tak terlupakan</h3>
+                  <h3 className="text-2xl font-bold mb-4 dark:text-white">SEBUAH MOMEN YANG TAK TERLUPAKAN</h3>
                   <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                    ANIMMOMEN is a creative content creator specializing in anime analysis and commentary. With a unique
-                    perspective on popular series like Naruto, each video offers insightful takes on characters,
-                    storylines, and hidden meanings.
+                    ANIMMOMEN adalah kreator konten kreatif yang khusus membahas analisis dan ulasan anime dengan perspektif unik. Setiap videonya menawarkan pandangan mendalam tentang karakter, alur cerita, serta makna tersembunyi dari berbagai judul populer seperti Naruto dengan eksplorasi dunia ninja dan perkembangannya, Tokyo Revengers yang mengupas drama perjalanan waktu dan konflik geng, Wind Breaker yang membahas semangat balap jalanan dan rivalitas, serta Crows yang menggali kehidupan keras para delinquent dengan nilai persaudaraannya. Dengan gaya penyampaian yang menarik, ANIMMOMEN memberikan insight segar bagi para pecinta anime!
                   </p>
                   <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
                     Join our growing community of anime enthusiasts and discover new ways to appreciate your favorite
@@ -420,7 +418,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
             className="text-center mb-16"
           >
-            <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">Connect With Us</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4 dark:text-white">SOCIAL MEDIA KAMI</h2>
             <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
               Follow ANIMMOMEN on social media and join our community
             </p>

@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ANIMMOMEN - sebuah momen yang tak terlupakan",
+  title: "sebuah momen yang tak terlupakan",
   description: "Portfolio website for ANIMMOMEN, a creative anime content creator",
   generator: "v0.dev",
 }
